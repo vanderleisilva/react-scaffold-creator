@@ -16,5 +16,8 @@
     "components"
   ],
   "author": "Vanderlei Alves da Silva",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
 }

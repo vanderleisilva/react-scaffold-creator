@@ -1,0 +1,7 @@
+[
+    {
+        "action": "react-component",
+        "params": ["name"],
+        "description": "Create a react component"
+    }
+]
