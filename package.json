@@ -1,0 +1,20 @@
+{
+  "name": "react-scaffold-creator",
+  "version": "1.0.0",
+  "description": "A command line application to create react scaffold scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "console",
+    "line",
+    "application",
+    "node",
+    "components"
+  ],
+  "author": "Vanderlei Alves da Silva",
+  "license": "ISC"
+}
